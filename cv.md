@@ -1,9 +1,10 @@
-#Dmitry Ladyshkin
-====
-#Contacs
----
--Location: Bobruisk, Belarus
-###-Phone number: +375 29 6778603
-###-Email: temhbl@tut.by
-###-GitHub: 1ster1ka
----
+# Dmitry Ladyshkin
+___
+## Contacs
+___
+- __Location:__ _Bobruisk, Belarus_
+- __Phone number:__ _+375 29 6778603_
+- __Email:__ _temhbl@tut.by_
+- __GitHub:__ _1ster1ka_
+___
+###About Me
