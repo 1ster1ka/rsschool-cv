@@ -151,7 +151,7 @@ h1 {
     margin-bottom: 0px;
 }
 
-span {
+.div-block {
     display: flex;
     align-items: flex-start;
     justify-content: space-between;
