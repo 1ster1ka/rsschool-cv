@@ -22,13 +22,13 @@ main {
     padding-top: 3vw;
 }
 
-#education,
-#contacts,
-#english,
-#skills,
-#code,
-#expirience,
-#project {
+#education-anchor,
+#contacts-anchor,
+#english-anchor,
+#skills-anchor,
+#code-anchor,
+#expirience-anchor,
+#project-anchor {
     margin-top: -2vw;
     padding-top: 2vw;
 }
